@@ -1,0 +1,15 @@
+{
+  "title": "Secure Webtask - requires authentication and authorization to endpoints",
+  "name": "auth0-secure-webtask-sample",
+  "version": "1.0.0",
+  "author": "arcseldon",
+  "description": "Email verification step introduced",
+  "type": "application",
+  "repository": "git@github.com:tawawa/auth0-secure-webtask-sample.git",
+  "keywords": [
+    "auth0",
+    "email",
+    "verification",
+    "webtask"
+  ]
+}
